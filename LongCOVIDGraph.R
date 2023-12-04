@@ -61,6 +61,8 @@ ggplot() +
        ") +
   ylab("Percent Reporting Long COVID Symptoms") +
   xlab("")
+
+ggsave("Percent of Individuals Answering YES.png")
   
 
 # 
